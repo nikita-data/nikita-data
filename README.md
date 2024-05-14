@@ -38,4 +38,5 @@
  <img src="https://img.shields.io/badge/Power%20bi-white?style=for-the-badge&logo=power%20bi&logoColor=blue%22%20alt="  title="POWER BI" alt="POWER BI" width="80" height="40"/>&nbsp;
  <img src="https://img.shields.io/badge/A/B%20testing%20-white?style=for-the-badge&logo=A/B%20testing%t%20bi&logoColor=blue%22%20alt="  title="A/B TESTING" alt="A/B TESTING" width="80" height="40"/>&nbsp;   
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></div>
+ 
 ---
