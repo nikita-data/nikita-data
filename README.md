@@ -13,7 +13,7 @@
 ---
 ### 📌 About Me :
 
-- 🧠 I'm Data Data Analyst from Moscow
+- 🧠 I'm Data Analyst from Moscow
 - 🌱 I’m currently learning ML and AI
 - 🎨 Interests: Reading, writing and fitness
 - :man_technologist: Retrieving, processing ang visualizing data from different sources.
