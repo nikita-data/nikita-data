@@ -10,3 +10,13 @@
     <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=blue%22%20alt=" alt="Tableau Badge" width="75"/>
   </a>
 
+---
+
+- 🧠 I'm Computer Science student from Russia
+- 🌱 I’m currently learning C++ and Python
+- 🎨 Interests: Reading, writing and going to the art galleries 
+- ⚡  Fun fact: I'm vegan and a big fan of plushies
+- 😄 Pronouns: she/her
+
+---
+
