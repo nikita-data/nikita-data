@@ -8,5 +8,5 @@
 [![mail](https://img.shields.io/badge/gmail-c14438?style=flat-square&message=gmail&logo=Gmail&logoColor=white&link=mailto:dmatasoff@gmail.com)](mailto:dmatasoff@gmail.com)
 [![mail](https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white alt=="Tableau Badge")](https://public.tableau.com/app/profile/nikita.shestakov/vizzes)
 <a href="https://public.tableau.com/app/profile/boravlev.n">
-    <img src="https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+    <img src="https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white" />
 
