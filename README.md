@@ -6,5 +6,5 @@
 
 [![telegram](https://img.shields.io/static/v1?style=flat-square&message=telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/matasoff)
 [![mail](https://img.shields.io/badge/gmail-c14438?style=flat-square&message=gmail&logo=Gmail&logoColor=white&link=mailto:dmatasoff@gmail.com)](mailto:dmatasoff@gmail.com)
+[![Tableau](https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white" alt=)](mailto:dmatasoff@gmail.com)
 
-[![SoundCloud](https://img.shields.io/static/v1?style=flat-square&message=soundcloud&color=FF3300&logo=SoundCloud&logoColor=FFFFFF&label=)](https://soundcloud.com/zero-point-of-view/sets/selected)
