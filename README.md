@@ -11,12 +11,14 @@
   </a>
 
 ---
+### 📌 About Me :
 
-- 🧠 I'm Computer Science student from Russia
-- 🌱 I’m currently learning C++ and Python
-- 🎨 Interests: Reading, writing and going to the art galleries 
-- ⚡  Fun fact: I'm vegan and a big fan of plushies
-- 😄 Pronouns: she/her
+- 🧠 I'm Data Data Analyst from Moscow
+- 🌱 I’m currently learning ML and AI
+- 🎨 Interests: Reading, writing and fitness
+- :man_technologist: Retrieving, processing ang visualizing data from different sources.
+- :game_die: Expert in Theory of Probabilities, Statistic and A/B testing
+
 
 ---
 
