@@ -34,6 +34,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"  title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg"  title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg"  title="plotly" alt="plotly" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/066aec674b7333eb71c66834539654fe62262a420f83b68c6e6f39a5da311a1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d7461626c656175266c6f676f436f6c6f723d626c7565253232253230616c743d"  title="TABLEAU" alt="TABLEAU" width="50" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/066aec674b7333eb71c66834539654fe62262a420f83b68c6e6f39a5da311a1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d7461626c656175266c6f676f436f6c6f723d626c7565253232253230616c743d"  title="TABLEAU" alt="TABLEAU" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></div>
 ---
