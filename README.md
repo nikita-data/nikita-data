@@ -9,6 +9,7 @@
 <a href="https://public.tableau.com/app/profile/nikita.shestakov/vizzes">
     <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=blue%22%20alt=" alt="Tableau Badge" width="75"/>
   </a>
+[![hh](https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png)]()
 
 ---
 ### 📌 About Me :
