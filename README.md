@@ -40,3 +40,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></div>
  
 ---
+### 🚀 Looking for Opportunities
+I am open to new projects and willing to contribute to the team. If you are looking for a data analyst, please, contact me!
+
+---
