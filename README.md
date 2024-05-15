@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=blue%22%20alt=" alt="Tableau Badge" width="75"/>
   </a>
 <a href="https://hh.ru/resume/23b6bd3aff0d042af80039ed1f4b357146626f">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="75"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="40"/>
   </a>
 
 ---
